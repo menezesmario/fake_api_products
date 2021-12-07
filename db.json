@@ -2,10 +2,10 @@
     "products": [
         {
             "id": 1,
-            "title": "Coqueteleira 1",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
+            "title": "Copo Shot De Cristal Para Licor Barline 60ml",
+            "price": 17,99
+            "oldPrice": 20,00
+            "description": "Possue muito brilho e alta qualidade, é uma peças que pode ser usada em diversas ocasiões, pois seu uso torna qualquer momento memorável e agradável, e o ambiente mais bonito.",           
             "imageUrl": "https://i.imgur.com/Td5qbSq.png",
             "categoryId": "1"
         },
