@@ -11,7 +11,7 @@
         {
             "id": 2,
             "title": "Kit Presenteável de Natal Moscow Mule",
-            "price": 74.30,
+            "price": 74.89,
             "description": "Caneca Moscow Mule 375ml, Dosador Cobreado duplo 25ml e 50ml, Espuma ge",           
             "categoryId": 3,
             "imageUrl": "https://i.imgur.com/IH9pYpx.png"
@@ -29,7 +29,7 @@
         {
             "id": 4,
             "title": "Gin Seco Nativo Terra YVY",
-            "price": 107.00,
+            "price": 107.89,
             "description": "Gin Seco Nativo Terra YVY 750ml",           
             "categoryId": 2,
             "imageUrl": "https://i.imgur.com/d1TbpVD.png"
@@ -47,7 +47,7 @@
         {
             "id": 6,
             "title": "Copo Alto Cristal 334 ml",
-            "price": 32.00,
+            "price": 32.89,
             "description": "Copo Alto Lapidado HomeBar Cristal 334 ml",           
             "categoryId": 1,
             "imageUrl": "https://i.imgur.com/H3sarI4.png"
@@ -56,7 +56,7 @@
         {
             "id": 7,
             "title": "Dosador Triangular",
-            "price": 18.90,
+            "price": 18.89,
             "description": "Dosador Triangular em Onças - Unidade",           
             "categoryId": 4,
             "imageUrl": "https://i.imgur.com/Ytmv6Hs.png"
@@ -65,7 +65,7 @@
         {
             "id": 8,
             "title": "Coqueteleira Deluxe Banho de Cobre Tradicional 550ml",
-            "price": 140.00,
+            "price": 140.89,
             "description": "Acessório prático e elegante para elaborar desde bebidas...",           
             "categoryId": 4,
             "imageUrl": "https://i.imgur.com/RimxD8G.png"
@@ -74,7 +74,7 @@
         {
             "id": 9,
             "title": "Caneca Moscow Mule ",
-            "price": 45.00,
+            "price": 45.89,
             "description": "Caneca Moscow Mule Inox Cobreado 450ml FullFit",           
             "categoryId": 4,
             "imageUrl": "https://imgur.com/9fcGRO1.png"
@@ -119,7 +119,7 @@
         {
             "id": 14,
             "title": "Vinho Reservado Cabernet Sauvignon",
-            "price": 79.00,
+            "price": 79.99,
             "description": "Vinho Reservado Cabernet Sauvignon 750 ml",           
             "categoryId": 3,
             "imageUrl": "https://imgur.com/5pLk9tN.png"
@@ -128,7 +128,7 @@
         {
             "id": 15,
             "title": "Colher Bailarina com Disco",
-            "price": 79.00,            
+            "price": 79.89,            
             "description": "colher de bar com alta qualidade",           
             "categoryId": 4,
             "imageUrl": "https://imgur.com/gtxbKZn.png"
@@ -137,7 +137,7 @@
         {
             "id": 16,
             "title": "Taça De Cristal Tulipa Bourgogne 600ml Bohemia",
-            "price": 55.00,
+            "price": 55.89,
             "description": "Taça De Cristal Tulipa Bourgogne 600ml Bohemia",           
             "categoryId": 1,
             "imageUrl": "https://imgur.com/KyOxdeP.png"
