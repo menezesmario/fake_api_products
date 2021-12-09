@@ -2,147 +2,146 @@
     "products": [
         {
             "id": 1,
-            "title": "Copo Shot De Cristal Para Licor Barline 60ml",
+            "title": "Copo Shot De Cristal Para Licor",
             "price": 17.99,
-            "oldPrice": 20.00,
-            "description": "Possue muito brilho e alta qualidade.",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "1"
+            "description": "Copo Shot De Cristal Para Licor Barline 60ml",           
+            "categoryId": 1,
+            "imageUrl": "https://imgur.com/BoijFGU.png"
         },
         {
             "id": 2,
             "title": "Kit Presenteável de Natal Moscow Mule",
             "price": 74.30,
-            "oldPrice": 110.80,
-            "description": "Indicado para Coquetéis Contemporâneos.",           
-            "imageUrl": "https://i.imgur.com/IH9pYpx.png",
-            "categoryId": "2"
+            "description": "Caneca Moscow Mule 375ml, Dosador Cobreado duplo 25ml e 50ml, Espuma ge",           
+            "categoryId": 3,
+            "imageUrl": "https://i.imgur.com/IH9pYpx.png"
+            
         },
         {
             "id": 3,
-            "title": "Coqueteleira 3",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "3"
+            "title": "Kit Presenteável de Natal Cerveja",
+            "price": 49.15,
+            "description": "Abridor Speed Opener, Caneca de Chopp 340ml e Porta Copos emborrachado preto",           
+            "categoryId": 3,
+            "imageUrl": "https://i.imgur.com/5tH9Qoz.png"
+            
         },
         {
             "id": 4,
-            "title": "Coqueteleira 4",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "1"
+            "title": "Gin Seco Nativo Terra YVY",
+            "price": 107.00,
+            "description": "Gin Seco Nativo Terra YVY 750ml",           
+            "categoryId": 2,
+            "imageUrl": "https://i.imgur.com/d1TbpVD.png"
+            
         },
         {
             "id": 5,
-            "title": "Coqueteleira 5 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "2"
+            "title": "Whisky Johnnie Walker Black",
+            "price": 179.99,
+            "description": "Whisky Johnnie Walker Black 12 Anos 1Litro",           
+            "categoryId": 2,
+            "imageUrl": "https://i.imgur.com/NODDxJY.png"
+            
         },
         {
             "id": 6,
-            "title": "Coqueteleira 6 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "3"
+            "title": "Copo Alto Cristal 334 ml",
+            "price": 32.00,
+            "description": "Copo Alto Lapidado HomeBar Cristal 334 ml",           
+            "categoryId": 1,
+            "imageUrl": "https://i.imgur.com/H3sarI4.png"
+            
         },
         {
             "id": 7,
-            "title": "Coqueteleira 5 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "2"
+            "title": "Dosador Triangular",
+            "price": 18.90,
+            "description": "Dosador Triangular em Onças - Unidade",           
+            "categoryId": 4,
+            "imageUrl": "https://i.imgur.com/Ytmv6Hs.png"
+            
         },
         {
             "id": 8,
-            "title": "Coqueteleira 6 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "3"
+            "title": "Coqueteleira Deluxe Banho de Cobre Tradicional 550ml",
+            "price": 140.00,
+            "description": "Acessório prático e elegante para elaborar desde bebidas...",           
+            "categoryId": 4,
+            "imageUrl": "https://i.imgur.com/RimxD8G.png"
+            
         },
         {
             "id": 9,
-            "title": "Coqueteleira 5 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "2"
+            "title": "Caneca Moscow Mule ",
+            "price": 45.00,
+            "description": "Caneca Moscow Mule Inox Cobreado 450ml FullFit",           
+            "categoryId": 4,
+            "imageUrl": "https://imgur.com/9fcGRO1.png"
+            
         },
         {
             "id": 10,
-            "title": "Coqueteleira 6 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "3"
+            "title": "Mixing Glass ",
+            "price": 79.90,
+            "description": "Mixing Glass Pasabahce Timeless Vidro 725ml",           
+            "categoryId": 4,
+            "imageUrl": "https://imgur.com/4cJJGuW.png"
+            
         },
         {
             "id": 11,
-            "title": "Coqueteleira 5 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "2"
+            "title": "Kit de Vinho com 4 Peças",
+            "price": 54.99,
+            "description": "Kit de Vinho com 4 Peças em Estojo Redondo Sintético Preto",           
+            "categoryId": 4,
+            "imageUrl": "https://i.imgur.com/F3fKJJZ.png"
+            
         },
         {
             "id": 12,
-            "title": "Coqueteleira 6 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "3"
+            "title": "Pack 12 Biqueiras",
+            "price": 130.00,
+            "description": "Pack 12 Biqueiras em Inox Free Pour",           
+            "categoryId": 4,
+            "imageUrl": "https://imgur.com/AolMnaD.png"
+            
         },
         {
             "id": 13,
-            "title": "Coqueteleira 6 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "3"
+            "title": "Macerador Dentado 25cm ",
+            "price": 39.99,
+            "description": "Macerador Dentado Plástico 25cm Preto Haüskraft",           
+            "categoryId": 4,
+            "imageUrl": "https://imgur.com/d634HMN.png"
+            
         },
         {
             "id": 14,
-            "title": "Coqueteleira 6 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "3"
+            "title": "Vinho Reservado Cabernet Sauvignon",
+            "price": 79.00,
+            "description": "Vinho Reservado Cabernet Sauvignon 750 ml",           
+            "categoryId": 3,
+            "imageUrl": "https://imgur.com/5pLk9tN.png"
+        
         },
         {
             "id": 15,
-            "title": "Coqueteleira 6 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "3"
+            "title": "Colher Bailarina com Disco",
+            "price": 79.00,            
+            "description": "colher de bar com alta qualidade",           
+            "categoryId": 4,
+            "imageUrl": "https://imgur.com/gtxbKZn.png"
+            
         },
         {
             "id": 16,
-            "title": "Coqueteleira 6 ",
-            "price": 79,
-            "oldPrice": 89,
-            "description": "Coqueteleira 500ml aço inox",           
-            "imageUrl": "https://i.imgur.com/Td5qbSq.png",
-            "categoryId": "3"
+            "title": "Taça De Cristal Tulipa Bourgogne 600ml Bohemia",
+            "price": 55.00,
+            "description": "Taça De Cristal Tulipa Bourgogne 600ml Bohemia",           
+            "categoryId": 1,
+            "imageUrl": "https://imgur.com/KyOxdeP.png"
+            
         }
     ],
     "categories": [
@@ -157,6 +156,10 @@
         {
             "id": 3,
             "category": "Bebidas"
+        },
+        {
+            "id": 4,
+            "category": "Utensilios"
         }
     ]
 }
